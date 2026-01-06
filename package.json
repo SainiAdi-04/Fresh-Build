@@ -1,0 +1,11 @@
+{
+  "name": "fresh-build",
+  "version": "0.1.0",
+  "description": "Clean and rebuild Vite projects safely",
+  "type": "module",
+  "bin": {
+    "fresh-build": "./bin/index.js"
+  },
+  "keywords": ["vite", "build", "clean", "frontend", "cli"],
+  "license": "MIT"
+}
